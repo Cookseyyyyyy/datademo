@@ -1,0 +1,649 @@
+time_period,time_identifier,geographic_level,country_code,country_name,education_function,expenditure_type,expenditure_level,t_expenditure_millions,t_expenditure_real_terms_millions,pt_expenditure_of_gdp
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Current,Local,2932.9810000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Local,84.617999999999995,z,z
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Total,Local,3017.5990000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Current,Local,24460.966,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Local,2910.4450000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Total,Local,27371.411,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Local,10478.44,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Local,1123.3600000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Local,11601.800000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Local,430.375,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Local,77.438000000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Local,507.81299999999999,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Local,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Local,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Local,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Local,2967.66,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Local,28.583000000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Local,2996.2429999999999,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Local,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Local,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Local,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Local,29.803000000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Local,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Local,29.803000000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Current,Local,41300.225000000006,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Capital,Local,4224.4440000000004,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Total,Local,45524.669000000009,z,z
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Current,Central,83.850999999999999,z,z
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Central,0.77300000000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Total,Central,84.623999999999995,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Current,Central,676.73599999999999,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Central,52.378,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Total,Central,729.11400000000003,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Central,25115.226999999999,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Central,2255.3910000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Central,27370.618000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Central,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Central,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Central,z,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Central,5791.0410000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Central,373.36900000000003,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Central,6164.41,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Central,503.221,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Central,4.0789999999999997,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Central,507.3,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Central,0,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Central,1573.3000000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Central,1573.3000000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Central,1503.3410000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Central,824.73400000000004,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Central,2328.0750000000003,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Current,Central,33673.417000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Capital,Central,5084.0240000000013,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Total,Central,38757.441000000006,z,z
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Current,Total,3016.8320000000003,z,z
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Total,85.390999999999991,z,z
+201516,Financial year,National,K02000001,United Kingdom,Under fives,Total,Total,3102.223,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Current,Total,25137.702000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Total,2962.8230000000003,z,z
+201516,Financial year,National,K02000001,United Kingdom,Primary education,Total,Total,28100.525000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Total,35593.667000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Total,3378.7510000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Total,38972.418000000005,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Total,430.375,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Total,77.438000000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Total,507.81299999999999,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Total,5791.0410000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Total,373.36900000000003,z,z
+201516,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Total,6164.41,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Total,3470.8809999999999,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Total,32.661999999999999,z,z
+201516,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Total,3503.5430000000001,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Total,0,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Total,1573.3000000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Total,1573.3000000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Total,1533.1440000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Total,824.73400000000004,z,z
+201516,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Total,2357.8780000000002,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Current,Total,74973.642000000007,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Capital,Total,9308.4680000000008,z,z
+201516,Financial year,National,K02000001,United Kingdom,Total,Total,Total,84282.110000000015,102687.002141902,4.34988155266648
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Current,Local,2939.0280000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Local,100.035,z,z
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Total,Local,3039.0630000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Current,Local,24464.517,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Local,2720.8290000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Total,Local,27185.346000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Local,9925.880000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Local,1349.377,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Local,11275.257,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Local,477.94,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Local,115.69200000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Local,593.63200000000006,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Local,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Local,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Local,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Local,2888.9560000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Local,28.647000000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Local,2917.6030000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Local,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Local,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Local,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Local,27.026,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Local,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Local,27.026,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Current,Local,40723.347000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Capital,Local,4314.58,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Total,Local,45037.926999999996,z,z
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Current,Central,83.010999999999996,z,z
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Central,2.8719999999999999,z,z
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Total,Central,85.882999999999996,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Current,Central,669.48599999999999,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Central,65.614999999999995,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Total,Central,735.101,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Central,27477.844000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Central,174.68800000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Central,27652.531999999999,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Central,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Central,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Central,z,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Central,5493.9849999999997,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Central,571.90499999999997,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Central,6065.89,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Central,473.26300000000003,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Central,1.837,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Central,475.1,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Central,-0.498,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Central,1703.654,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Central,1703.1559999999999,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Central,1602.3990000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Central,739.64700000000005,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Central,2342.0459999999998,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Current,Central,35799.49,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Capital,Central,3260.2179999999998,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Total,Central,39059.708000000006,z,z
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Current,Total,3022.0390000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Total,102.907,z,z
+201617,Financial year,National,K02000001,United Kingdom,Under fives,Total,Total,3124.9459999999999,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Current,Total,25134.003000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Total,2786.444,z,z
+201617,Financial year,National,K02000001,United Kingdom,Primary education,Total,Total,27920.447,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Total,37403.724000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Total,1524.0650000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Total,38927.788999999997,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Total,477.94,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Total,115.69200000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Total,593.63200000000006,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Total,5493.9849999999997,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Total,571.90499999999997,z,z
+201617,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Total,6065.89,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Total,3362.2190000000001,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Total,30.484000000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Total,3392.703,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Total,-0.498,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Total,1703.654,z,z
+201617,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Total,1703.1559999999999,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Total,1629.4250000000002,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Total,739.64700000000005,z,z
+201617,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Total,2369.0719999999997,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Current,Total,76522.837,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Capital,Total,7574.7979999999998,z,z
+201617,Financial year,National,K02000001,United Kingdom,Total,Total,Total,84097.635000000009,100400.302286128,4.15718578636642
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Current,Local,3374.4850000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Local,84.028000000000006,z,z
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Total,Local,3458.5129999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Current,Local,23855.113000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Local,2523.2829999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Total,Local,26378.396000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Local,9243.8590000000004,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Local,1468.163,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Local,10712.022000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Local,453.45,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Local,127.55500000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Local,581.005,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Local,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Local,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Local,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Local,2821.6970000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Local,28.169,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Local,2849.866,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Local,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Local,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Local,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Local,25.907,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Local,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Local,25.907,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Current,Local,39774.510999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Capital,Local,4231.1980000000003,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Total,Local,44005.709000000003,z,z
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Current,Central,83.710999999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Central,1.3140000000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Total,Central,85.025000000000006,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Current,Central,662.37,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Central,49.56,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Total,Central,711.93000000000006,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Central,28541.495999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Central,1717.7909999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Central,30259.287,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Central,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Central,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Central,0,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Central,4925.6779999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Central,492.86900000000003,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Central,5418.5469999999996,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Central,532.38099999999997,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Central,2.3159999999999998,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Central,534.697,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Central,-1.1759999999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Central,1816.374,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Central,1815.1980000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Central,1671.56,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Central,646.798,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Central,2318.3580000000002,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Current,Central,36416.020000000004,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Capital,Central,4727.0220000000008,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Total,Central,41143.042000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Current,Total,3458.1959999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Total,85.342000000000013,z,z
+201718,Financial year,National,K02000001,United Kingdom,Under fives,Total,Total,3543.538,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Current,Total,24517.483,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Total,2572.8429999999998,z,z
+201718,Financial year,National,K02000001,United Kingdom,Primary education,Total,Total,27090.326000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Total,37785.354999999996,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Total,3185.9539999999997,z,z
+201718,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Total,40971.308999999994,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Total,453.45,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Total,127.55500000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Total,581.005,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Total,4925.6779999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Total,492.86900000000003,z,z
+201718,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Total,5418.5469999999996,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Total,3354.078,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Total,30.484999999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Total,3384.5630000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Total,-1.1759999999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Total,1816.374,z,z
+201718,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Total,1815.1980000000001,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Total,1697.4669999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Total,646.798,z,z
+201718,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Total,2344.2649999999999,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Current,Total,76190.531000000003,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Capital,Total,8958.2200000000012,z,z
+201718,Financial year,National,K02000001,United Kingdom,Total,Total,Total,85148.751000000004,99988.5519355085,4.04906266271978
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Current,Local,3765.2220000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Local,73.628,z,z
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Total,Local,3838.8500000000004,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Current,Local,23807.112000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Local,2091.9560000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Total,Local,25899.067999999999,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Local,9016.6830000000009,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Local,1265.213,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Local,10281.896000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Local,444.572,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Local,40.271000000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Local,484.84300000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Local,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Local,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Local,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Local,3042.9250000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Local,8.5960000000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Local,3051.5210000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Local,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Local,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Local,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Local,32.549999999999997,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Local,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Local,32.549999999999997,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Current,Local,40109.064000000013,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Capital,Local,3479.6640000000007,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Total,Local,43588.728000000017,z,z
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Current,Central,85.26,z,z
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Central,1.92,z,z
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Total,Central,87.18,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Current,Central,680.89700000000005,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Central,59.768000000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Total,Central,740.66500000000008,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Central,30358.057000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Central,2437.6590000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Central,32795.716,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Central,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Central,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Central,0,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Central,4330.7700000000004,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Central,290.60599999999999,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Central,4621.3760000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Central,591.99099999999999,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Central,2.5680000000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Central,594.55899999999997,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Central,-0.19600000000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Central,2259.364,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Central,2259.1680000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Central,2203.203,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Central,450.89400000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Central,2654.0969999999998,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Current,Central,38249.981999999996,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Capital,Central,5502.7790000000005,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Total,Central,43752.760999999999,z,z
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Current,Total,3850.4820000000004,z,z
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Total,75.548000000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Under fives,Total,Total,3926.03,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Current,Total,24488.009000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Total,2151.7240000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Primary education,Total,Total,26639.733,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Total,39374.740000000005,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Total,3702.8720000000003,z,z
+201819,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Total,43077.612000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Total,444.572,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Total,40.271000000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Total,484.84300000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Total,4330.7700000000004,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Total,290.60599999999999,z,z
+201819,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Total,4621.3760000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Total,3634.9160000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Total,11.164,z,z
+201819,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Total,3646.08,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Total,-0.19600000000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Total,2259.364,z,z
+201819,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Total,2259.1680000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Total,2235.7530000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Total,450.89400000000001,z,z
+201819,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Total,2686.6469999999999,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Current,Total,78359.046000000002,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Capital,Total,8982.4430000000011,z,z
+201819,Financial year,National,K02000001,United Kingdom,Total,Total,Total,87341.489000000016,100763.37162753,4.0116023538252
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Current,Local,3969.5889999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Local,155.92000000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Total,Local,4125.509,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Current,Local,24084.141,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Local,1968.0820000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Total,Local,26052.222999999998,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Local,8980.2489999999998,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Local,1142.3800000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Local,10122.629000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Local,472.77100000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Local,56.172000000000004,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Local,528.94299999999998,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Local,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Local,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Local,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Local,3510.1260000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Local,22.14,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Local,3532.2660000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Local,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Local,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Local,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Local,36.082000000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Local,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Local,36.082000000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Current,Local,41052.958000000006,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Capital,Local,3344.694,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Total,Local,44397.652000000009,z,z
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Current,Central,109.416,z,z
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Central,0.71,z,z
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Total,Central,110.12599999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Current,Central,777.00400000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Central,66.352000000000004,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Total,Central,843.35599999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Central,32815.385999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Central,2064.1460000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Central,34879.531999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Central,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Central,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Central,0,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Central,4132.5870000000004,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Central,239.53,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Central,4372.1170000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Central,648.72199999999998,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Central,3.64,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Central,652.36199999999997,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Central,-0.22800000000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Central,2323.8389999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Central,2323.6109999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Central,1865.6849999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Central,205.52600000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Central,2071.2109999999998,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Current,Central,40348.571999999993,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Capital,Central,4903.7430000000004,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Total,Central,45252.314999999995,z,z
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Current,Total,4079.0050000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Total,156.63000000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Under fives,Total,Total,4235.6350000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Current,Total,24861.145,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Total,2034.4340000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Primary education,Total,Total,26895.578999999998,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Total,41795.634999999995,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Total,3206.5260000000003,z,z
+201920,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Total,45002.161,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Total,472.77100000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Total,56.172000000000004,z,z
+201920,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Total,528.94299999999998,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Total,4132.5870000000004,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Total,239.53,z,z
+201920,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Total,4372.1170000000002,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Total,4158.848,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Total,25.78,z,z
+201920,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Total,4184.6279999999997,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Total,-0.22800000000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Total,2323.8389999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Total,2323.6109999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Total,1901.7670000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Total,205.52600000000001,z,z
+201920,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Total,2107.2929999999997,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Current,Total,81401.53,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Capital,Total,8248.4369999999999,z,z
+201920,Financial year,National,K02000001,United Kingdom,Total,Total,Total,89649.967000000004,100805.054309938,3.98546502814277
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Current,Local,4289.0600000000004,z,z
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Local,167.24100000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Total,Local,4456.3010000000004,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Current,Local,24717.33,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Local,1689.175,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Total,Local,26406.505000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Local,9198.0480000000007,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Local,1143.501,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Local,10341.549000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Local,508.815,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Local,62.375,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Local,571.19000000000005,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Local,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Local,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Local,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Local,3885.5410000000002,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Local,27.59,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Local,3913.1310000000003,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Local,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Local,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Local,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Local,44.669000000000004,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Local,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Local,44.669000000000004,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Current,Local,42643.463000000003,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Capital,Local,3089.8820000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Total,Local,45733.345000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Current,Central,196.20400000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Central,0.49,z,z
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Total,Central,196.69400000000002,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Current,Central,824.11699999999996,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Central,58.695999999999998,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Total,Central,882.81299999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Central,34979.559000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Central,2135.6590000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Central,37115.218000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Central,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Central,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Central,0,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Central,4117.4800000000005,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Central,780.48800000000006,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Central,4897.9680000000008,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Central,842.73599999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Central,15.116,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Central,857.85199999999998,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Central,-6.1379999999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Central,2697.7159999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Central,2691.578,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Central,1798.2719999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Central,232.55700000000002,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Central,2030.829,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Current,Central,42752.23,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Capital,Central,5920.7220000000007,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Total,Central,48672.952000000005,z,z
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Current,Total,4485.2640000000001,z,z
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Total,167.73100000000002,z,z
+202021,Financial year,National,K02000001,United Kingdom,Under fives,Total,Total,4652.9950000000008,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Current,Total,25541.447,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Total,1747.8709999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Primary education,Total,Total,27289.317999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Total,44177.607000000004,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Total,3279.16,z,z
+202021,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Total,47456.767,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Total,508.815,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Total,62.375,z,z
+202021,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Total,571.19000000000005,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Total,4117.4800000000005,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Total,780.48800000000006,z,z
+202021,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Total,4897.9680000000008,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Total,4728.277,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Total,42.706000000000003,z,z
+202021,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Total,4770.9830000000002,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Total,-6.1379999999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Total,2697.7159999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Total,2691.578,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Total,1842.941,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Total,232.55700000000002,z,z
+202021,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Total,2075.498,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Current,Total,85395.692999999999,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Capital,Total,9010.6040000000012,z,z
+202021,Financial year,National,K02000001,United Kingdom,Total,Total,Total,94406.297000000006,99893.7609714444,4.52743697978711
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Current,Local,4328.0339999999997,z,z
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Local,165.172,z,z
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Total,Local,4493.2059999999992,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Current,Local,25860.742000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Local,1846.02,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Total,Local,27706.762000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Local,9505.6920000000009,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Local,1229.5740000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Local,10735.266000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Local,591.17500000000007,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Local,42.363,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Local,633.53800000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Local,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Local,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Local,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Local,4293.7560000000003,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Local,16.336000000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Local,4310.0920000000006,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Local,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Local,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Local,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Local,38.948999999999998,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Local,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Local,38.948999999999998,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Current,Local,44618.348000000005,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Capital,Local,3299.4649999999997,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Total,Local,47917.813000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Current,Central,128.952,z,z
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Central,0.94900000000000007,z,z
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Total,Central,129.90100000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Current,Central,870.78499999999997,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Central,53.372,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Total,Central,924.15699999999993,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Central,37682.792000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Central,2229.6240000000003,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Central,39912.416000000005,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Central,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Central,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Central,0,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Central,4128.7120000000004,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Central,591.59699999999998,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Central,4720.3090000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Central,814.39499999999998,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Central,34.158999999999999,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Central,848.55399999999997,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Central,-0.28300000000000003,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Central,2608.4430000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Central,2608.1600000000003,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Central,1828.895,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Central,294.726,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Central,2123.6210000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Current,Central,45454.247999999992,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Capital,Central,5812.87,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Total,Central,51267.117999999995,z,z
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Current,Total,4456.9859999999999,z,z
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Total,166.12100000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Under fives,Total,Total,4623.1069999999991,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Current,Total,26731.527000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Total,1899.3920000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Primary education,Total,Total,28630.919000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Total,47188.484000000004,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Total,3459.1980000000003,z,z
+202122,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Total,50647.682000000008,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Total,591.17500000000007,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Total,42.363,z,z
+202122,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Total,633.53800000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Total,4128.7120000000004,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Total,591.59699999999998,z,z
+202122,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Total,4720.3090000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Total,5108.1509999999998,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Total,50.495000000000005,z,z
+202122,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Total,5158.6460000000006,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Total,-0.28300000000000003,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Total,2608.4430000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Total,2608.1600000000003,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Total,1867.8440000000001,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Total,294.726,z,z
+202122,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Total,2162.5700000000002,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Current,Total,90072.59599999999,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Capital,Total,9112.3349999999991,z,z
+202122,Financial year,National,K02000001,United Kingdom,Total,Total,Total,99184.930999999997,105681.939600841,4.24246691592095
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Current,Local,4199.0950000000003,z,z
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Local,174.31399999999999,z,z
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Total,Local,4373.4090000000006,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Current,Local,26493.21,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Local,1846.1290000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Total,Local,28339.339,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Local,10153.011,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Local,1203.26,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Local,11356.271000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Local,711.83799999999997,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Local,36.414999999999999,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Local,748.25299999999993,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Local,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Local,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Local,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Local,4322.3509999999997,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Local,18.690999999999999,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Local,4341.0419999999995,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Local,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Local,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Local,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Local,39.75,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Local,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Local,39.75,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Current,Local,45919.255000000005,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Capital,Local,3278.8090000000002,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Total,Local,49198.064000000006,z,z
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Current,Central,124.169,z,z
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Central,2.6230000000000002,z,z
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Total,Central,126.792,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Current,Central,863.32400000000007,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Central,65.945999999999998,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Total,Central,929.2700000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Central,40572.376000000004,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Central,2336.748,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Central,42909.124000000003,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Central,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Central,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Central,0,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Central,4023.3650000000002,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Central,529.12900000000002,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Central,4552.4940000000006,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Central,821.19,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Central,6.83,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Central,828.0200000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Central,-0.16200000000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Central,2971.8340000000003,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Central,2971.6720000000005,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Central,2098.9360000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Central,652.899,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Central,2751.835,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Current,Central,48503.198000000011,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Capital,Central,6566.0090000000009,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Total,Central,55069.207000000009,z,z
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Current,Total,4323.2640000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Capital,Total,176.93699999999998,z,z
+202223,Financial year,National,K02000001,United Kingdom,Under fives,Total,Total,4500.2010000000009,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Current,Total,27356.534,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Capital,Total,1912.075,z,z
+202223,Financial year,National,K02000001,United Kingdom,Primary education,Total,Total,29268.609,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Current,Total,50725.387000000002,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Capital,Total,3540.0079999999998,z,z
+202223,Financial year,National,K02000001,United Kingdom,Secondary education,Total,Total,54265.395000000004,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Current,Total,711.83799999999997,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Capital,Total,36.414999999999999,z,z
+202223,Financial year,National,K02000001,United Kingdom,Post-secondary non-tertiary education,Total,Total,748.25299999999993,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Current,Total,4023.3650000000002,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Capital,Total,529.12900000000002,z,z
+202223,Financial year,National,K02000001,United Kingdom,Tertiary education,Total,Total,4552.4940000000006,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Current,Total,5143.5409999999993,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Capital,Total,25.521000000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Subsidiary services to education,Total,Total,5169.0619999999999,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Current,Total,-0.16200000000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Capital,Total,2971.8340000000003,z,z
+202223,Financial year,National,K02000001,United Kingdom,Research & Development education,Total,Total,2971.6720000000005,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Current,Total,2138.6860000000001,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Capital,Total,652.899,z,z
+202223,Financial year,National,K02000001,United Kingdom,Education not elsewhere covered,Total,Total,2791.585,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Current,Total,94422.453000000009,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Capital,Total,9844.8180000000011,z,z
+202223,Financial year,National,K02000001,United Kingdom,Total,Total,Total,104267.27100000001,104267.271,4.11819212676796

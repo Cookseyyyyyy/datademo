@@ -1,0 +1,44 @@
+    Education and training statistics for the UK
+    2023 Reporting year
+
+    Description
+
+    This document describes the contents of the underlying data files accompanying the ‘education and training’ statistics publication. There is a Methodology document that is linked under ‘Useful information’ at the top of the release, that contains further information on the statistics published here.
+
+    Coverage
+
+    This release compiles information on education systems across the United Kingdom.
+
+    File formats and conventions
+
+    Symbols used in the underlying data are as follows:
+
+    - ‘z’ when an observation is not applicable
+    - ‘x’ when data is unavailable for other reasons
+    - ‘c’ confidential data
+    - ‘low’ rounds to 0, but is not 0
+
+    Data files
+
+    Education expenditure UK
+
+    Filename: uk_expenditure.csv
+    Geographic levels: National
+    Time period: 2015-16 to 2022-23
+    Content summary: This file contains information on government expenditure in education in the UK.
+
+    Variable names and descriptions for this file are provided below:
+
+    Variable name                      |  Variable description
+    ---------------------------------  |  ------------------------------------------
+    education_function                 |  Education function
+    expenditure_level                  |  Expenditure level
+    expenditure_type                   |  Expenditure type
+    pt_expenditure_of_gdp              |  Total expenditure as a percentage of GDP
+    t_expenditure_millions             |  Total expenditure (millions)
+    t_expenditure_real_terms_millions  |  Total expenditure in real terms (millions)
+
+    Footnotes:
+
+    1. In England, secondary education includes expenditure on central government academies which will also cover some schools in primary education.
+    2. Totals exclude expenditure for education not definable by level.
